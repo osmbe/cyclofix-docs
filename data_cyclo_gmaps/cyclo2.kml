@@ -1,0 +1,2669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Brussels Bike Services | Services de vélo à BXL  | Fietsdiensten in Brussel</name>
+    <description/>
+    <Style id="icon-1522-0F9D58-nodesc-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1522-0F9D58-nodesc-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1522-0F9D58-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-0F9D58-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-0F9D58-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-C2185B-nodesc-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1522-C2185B-nodesc-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1522-C2185B-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-C2185B-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-C2185B-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1522-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1522-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-FBC02D-nodesc-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1522-FBC02D-nodesc-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1522-FBC02D-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-FBC02D-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-FBC02D-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1534-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1534-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1534-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1534-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1534-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1590-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1590-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1590-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1590-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1590-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1590-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1590-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1590-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1590-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1590-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1590-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1590-DB4436-labelson-nodesc">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1590-FBC02D-labelson-nodesc">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1644-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1644-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1644-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1644-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1644-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-labelson-nodesc">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>GETYOURBIKEFIXED</name>
+      <Placemark>
+        <name>Atelier vélo de la rue Voot</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3987455,50.8240027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Best Bike Brussels</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.43030199999998,50.8371283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike and Road BXL</name>
+        <styleUrl>#icon-1590-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36915939999994,50.8356059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike Avenue</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.35462899999993,50.824983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bikeemotion</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32132899999999,50.785796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike Square Brussels</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3702151,50.8375715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike Your City</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36840519999998,50.8115537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cicli Fransman</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32411320000006,50.8733288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le comptoir du cycle</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36250569999993,50.7931084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Bike Co.</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32883089999996,50.8727838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CyCLO Point Vélo Bourse | Fietspunt Beurs</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34927749999997,50.8484284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CyCLO | Point Vélo Central / Fietspunt Centraal</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.355726,50.844937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CyCLO | Point Vélo Luxembourg/ Fietspunt Lux
+</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.37385029999996,50.8379413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CyCLO | Point Vélo Midi / Fietspunt Zuid</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.336682,50.834953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CyCLO | Point Vélo Nord / Fietspunt Noord</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36091250000004,50.8602122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cyclo Europe</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.40122099999996,50.871565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C.y.d.</name>
+        <styleUrl>#icon-1590-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.38916749999999,50.8302904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doner Bekane</name>
+        <styleUrl>#icon-1590-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.37123280000003,50.8307966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goodbikes</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36214629999995,50.8221293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HORS CATEGORIE 
+</name>
+        <description>http://horscategorie.brussels/</description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.3846725,50.8226007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hot Wheelz - 55 Bike distribution - Specialized Concept store</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.44163400000002,50.810407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IMP BIKE</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.41204800000003,50.85862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J.O. BIKES</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.39336300000002,50.828802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 km Bicycle Store</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.42002209999998,50.7918038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[L'Ecurie]]></name>
+        <description>A partir du 6 décembre</description>
+        <styleUrl>#icon-1590-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.3326356,50.8286508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magic Vélos</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34767199999999,50.857992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcel Bike Café </name>
+        <description>www.marcelbikecafe.be</description>
+        <styleUrl>#icon-1590-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.34246619999999,50.8212292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marisa Cicli sa</name>
+        <styleUrl>#icon-1590-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.44104,50.810508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morning Cycles</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.38840470000002,50.8470094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moving Store</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.62420109999994,50.7204911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pignon sur Roue</name>
+        <styleUrl>#icon-1590-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3828328,50.8618002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pro Velo (service répa temporaire)
+</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3675398,50.8379999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SEASPEED</name>
+        <styleUrl>#icon-1590-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.43550189999996,50.8441117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tandem Fiets Café Vélo</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3697874,50.8482966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Van Den Mooter / Werner</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32810900000004,50.8768344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vélo Cité</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.37280620000001,50.8672872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velodroom bvba</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34624120000001,50.8482738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velofixer</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34925429999998,50.8473014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velonaut</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.33461149999994,50.8892761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vélo Pipette</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.4192137,50.8000352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veloshops Mydo</name>
+        <styleUrl>#icon-1590-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34313259999999,50.8325046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VELOSOS (+mobile repair)</name>
+        <styleUrl>#icon-1899-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.38774869999997,50.8229584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>vélosofiets</name>
+        <styleUrl>#icon-1590-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32487900000001,50.8126029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>LEARNFIX</name>
+      <Placemark>
+        <name>Alee du Kaai</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34947299999999,50.8634342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ateliers vélo de la rue Voot</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.43550129999994,50.8407365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atelier Voot Maelbeek
+</name>
+        <description><![CDATA[jeudi/donderdag/thursday<br>16:00-19:00]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.37654980000002,50.8304654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CyCLO Het Atelier Participatif
+</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.346091,50.852489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cycloperativa</name>
+        <description>Ouvert tous les lundis de 18 à 21h (toute l’année, jours fériés compris)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.34364240000002,50.846444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CityGate Cycle
+</name>
+        <description><![CDATA[CityGate Cycle is open Wednesday & Saturday from 10:00 to 18:00]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.321907,50.831609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Déchainé.es
+</name>
+        <description><![CDATA[Tous les 2ème jeudi du mois<br>https://dechainees.noblogs.org]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3751403,50.8514156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doner Bekane</name>
+        <styleUrl>#icon-1590-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.37123280000003,50.8307966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiets Atelier Vélo Molembike (from 17 March on)
+</name>
+        <description><![CDATA[Every Tuesday from 6-9pm <br>Tous les mardis de 18h00 à 21h00]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3479236,50.8649846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HORS CATEGORIE 
+</name>
+        <description>http://horscategorie.brussels/</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3846725,50.8226007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papa Douala</name>
+        <description>Que samedi 14-17h</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.34683300000006,50.8254883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point Vélo - Atelier de la rue Voot ASBL</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.39885379999998,50.8239964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Poudrière ASBL / Emmaüs</name>
+        <description>Chaque mardi et jeudi 14h-19h</description>
+        <styleUrl>#icon-1590-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.33880099999999,50.848657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velokanik</name>
+        <description><![CDATA[do/je 18:00-21:00<br>www.velokanik.be]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3374689,50.8762924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Racagnac
+</name>
+        <description>atelier vélo participatif ouvert chaque mercredi de 18 à 21h</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3751507,50.8513767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcel Bike Cafe</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3423149,50.8216316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>SECONDHAND</name>
+      <Placemark>
+        <name>Best Bike Brussels</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.43030199999998,50.8371283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike and Road BXL</name>
+        <styleUrl>#icon-1522-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36915939999994,50.8356059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CityGate Cycle
+</name>
+        <description><![CDATA[Wednesday & Saturday from 10:00 to 18:00]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.321907,50.831609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CyCLO Atelier Bockstael</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34611140000004,50.8738223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doner Bekane</name>
+        <styleUrl>#icon-1522-FBC02D-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.37123280000003,50.8307966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HORS CATEGORIE 
+</name>
+        <description>http://horscategorie.brussels/</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3846725,50.8226007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hot Wheelz - 55 Bike distribution - Specialized Concept store</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.44163400000002,50.810407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moving Store</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.62420109999994,50.7204911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magic Vélos</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34767199999999,50.857992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Poudrière ASBL / Emmaüs</name>
+        <description>Chaque mardi et jeudi 14h-19h</description>
+        <styleUrl>#icon-1522-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            4.33880099999999,50.848657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Urban Tri Sports</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.46324010000001,50.8400371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velofixer</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34925429999998,50.8473014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vélosofiets</name>
+        <styleUrl>#icon-1522-FBC02D-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32487900000001,50.8126029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>NEWBIKE</name>
+      <Placemark>
+        <name>Ahooga House</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36608290000004,50.824571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Au Guidon Vert</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.38017000000002,50.836524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike and Road BXL</name>
+        <styleUrl>#icon-1522-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36915939999994,50.8356059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike Avenue</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.35462899999993,50.824983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bikkenek</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34644230000004,50.8376242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Best Bike Brussels</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.43030199999998,50.8371283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cyclo Europe</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.40122099999996,50.871565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike Your City</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36840519999998,50.8115537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike Your City 2</name>
+        <description>@ Be Here</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.34854780000001,50.8709862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Bike Co.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32883089999996,50.8727838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bikeemotion</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32132899999999,50.785796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bike Square Brussels</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3702151,50.8375715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cicli Fransman</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32411320000006,50.8733288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le comptoir du cycle</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36250569999993,50.7931084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cowboy Saloon</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.33972240000003,50.8523067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cycles Devos</name>
+        <styleUrl>#icon-1522-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.39165030000004,50.8194861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eddy Sport</name>
+        <styleUrl>#icon-1522-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.40277289999995,50.8416142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goffeau Philippe</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36745900000005,50.8332796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fun Bike</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.29654149999999,50.8612703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goodbikes</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36214629999995,50.8221293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HORS CATEGORIE 
+</name>
+        <description><![CDATA[http://horscategorie.brussels/<br>(omnium cargos)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3846725,50.8226007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hot Wheelz - 55 Bike distribution - Specialized Concept store</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.44163400000002,50.810407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IMP BIKE</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.41204800000003,50.85862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J.O. BIKES</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.39336300000002,50.828802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Km 10 Bicycle Store</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.42002209999998,50.7918038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Maison du Vélo</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.39625660000002,50.8541719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magic Vélos</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34767199999999,50.857992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MFI Bike</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34854340000004,50.814197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mobility Center VDB </name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.31597299999999,50.8393566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morning Cycles
+</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.38840470000002,50.8470094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Van Den Mooter / Werner</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32810900000004,50.8768344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vélo Cité</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.37280620000001,50.8672872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velodroom</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34624120000001,50.8482738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VeloFixer</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34925429999998,50.8473014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moving Store</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.62420109999994,50.7204911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SEASPEED</name>
+        <styleUrl>#icon-1522-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.43550189999996,50.8441117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Urban Tri Sports</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.46358499999997,50.840134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>le Vélo de Gé</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32431099999997,50.796123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veloxygène</name>
+        <styleUrl>#icon-1522-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36095420000004,50.8142622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velonaut</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.33461149999994,50.8892761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vélo Pipette</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.4192137,50.8000352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veloshops Mydo</name>
+        <styleUrl>#icon-1522-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34313259999999,50.8325046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velophil</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3964697,50.837247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>RENTABIKE</name>
+      <Placemark>
+        <name>Bike Your City</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36840519999998,50.8115537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CyCLO Point Vélo Bourse | Fietspunt Beurs</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34927749999997,50.8484284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eddy Sport</name>
+        <styleUrl>#icon-1522-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.40277289999995,50.8416142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Km 10 Bicycle Store</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.42002209999998,50.7918038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MFI Bike</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34854340000004,50.814197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pro Velo Bruxelles</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36753980000003,50.8379999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Remorquable ASBL
+</name>
+        <description>https://www.remorquable.be/membre</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.38465710000003,50.8125448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SEASPEED</name>
+        <styleUrl>#icon-1522-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.43550189999996,50.8441117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swapfiets Brussel / Bruxelles</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34443720000002,50.8517928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Urban Tri Sports</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.46324010000001,50.8400371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Usitoo scrl</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32307079999998,50.8456654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>le Vélo de Gé</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.32431099999997,50.796123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vélothèque Fiettsbieb Laken
+</name>
+        <description>https://fr.fietsbieb.brussels</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.346278,50.873329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vélothèque Fietsbieb Vélos Enfants Kinderfietsen 
+</name>
+        <description><![CDATA["Tous les seconds dimanches du mois entre 10h et 12h. Jours d’ouverture en 2019 : 09/06; 14/07; 11/08; 08/09; 13/10; 10/11; 08/12 https://www.fietsbieb.brussels/"]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3344227,50.8644181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vélothèque Fietsbieb Vélos Enfants/Kinderfietsen 
+</name>
+        <description>Tous les premier mercredis du mois entre 14h et 16h. Jours d’ouverture en 2019 : 19/06; 03/07; 04/09; 2/10; 06/11; 04/12 https://www.fietsbieb.brussels/</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3273694,50.8431444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vélothèque Fietsbieb St-Agatha-Berchem
+</name>
+        <description>www.fietsbieb.brussels</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.2947715,50.8632884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>CLUBSTOURS</name>
+      <Placemark>
+        <name>Bike your city</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36840519999998,50.8115537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brubike</name>
+        <description>https://www.brubike.be</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3452473,50.8539241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Big brackets (Départ)</name>
+        <description>http://brusselsbigbrackets.be</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3781487,50.806618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cactus Brussel à vélo</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.35625759999994,50.8460096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gemeenschapscentrum Wabo vzw</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.41123570000002,50.7956985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HORS CATEGORIE</name>
+        <description>http://horscategorie.brussels/</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3846725,50.8226007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kring ASBL</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34544000000005,50.849103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Refuge des cyclistes</name>
+        <description>https://www.facebook.com/Le-refuge-des-cyclistes-622008464638760/</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            4.3437202,50.8519389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PedalBXL Tours</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.30437749999999,50.8708779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pro Velo</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36753980000003,50.8379999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>PROCYCLE</name>
+      <Placemark>
+        <name>Critical Mass Brussels</name>
+        <description>Tous derniers vendredis du mois, 18h</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.36224140000002,50.838195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ECF European Cyclists' Federation asbl]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.38496310000005,50.8447375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fietsersbond vzw</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.34548169999994,50.8488998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRACQ-Les Cyclistes Quotidiens asbl</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3676428,50.8380399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Déchainé.es
+</name>
+        <description><![CDATA[Tous les 3ème vendredis du mois<br>https://dechainees.noblogs.org/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3639284,50.8406332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>TRANSPORT</name>
+      <Placemark>
+        <name>Dioxyde de Gambettes - livraisons à vélo</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36432209999998,50.8378953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HUSH RUSH // Bicycle Delivery</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.38774869999997,50.8229584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Molenbike 
+</name>
+        <description><![CDATA[Local & Fair Transporthttps://www.molenbike.be/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3407019,50.8548627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PedalBXL Bicycle Couriers</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.30437749999999,50.8708779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Remorquable ASBL
+</name>
+        <description>https://www.remorquable.be/</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.38465710000003,50.8125448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>urbike</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.33827980000001,50.8317142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>OTHERBIKE</name>
+      <Placemark>
+        <name>Bikkenek</name>
+        <description>Café Vélo</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.34644230000004,50.8376242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cycloserrurier</name>
+        <description>Artisan serrurier</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.35833960000002,50.8333362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HORS CATEGORIE
+</name>
+        <description>http://horscategorie.brussels/</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.3846725,50.8226007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcel Bike Cafe (opening soon)</name>
+        <description>Bike café | Café vélo </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.34246619999999,50.8212292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Les Hirond’Elles</name>
+        <description><![CDATA[Cours d’initiation au vélo dédié aux femmes<br>http://molembike.be/ateliers-velo/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.34210239999993,50.863437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tournevie Ixelles</name>
+        <description><![CDATA[Bike tools Rental<br>Location outillage]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.37691599999994,50.8304453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tournevie Anderlecht</name>
+        <description><![CDATA[Bike tools Rental<br>Location outillage]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.33013930000004,50.8345413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafe Velo</name>
+        <description>Espresso on wheels</description>
+        <styleUrl>#icon-1534-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.3580397,50.8450454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tandem Fiets Café Vélo</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3697874,50.8482966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tuk Tuk Jette</name>
+        <description>Service de déplacements personnalisé avec un tuk-tuk électrique (pour des aînés) |  sociaal mobiliteitsproject voor de ouderen http://labolobo.eu/nl/nl-tuktukjette/</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.32835709999995,50.8721173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Usitoo scrl</name>
+        <description><![CDATA[Rental of tools and bike (accessoires)<br>Location d'outils et (accessoires) vélo]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.32307079999998,50.8456654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wheel of Care</name>
+        <description>midwives and nurses offering home care | Des sages-femmes et infirmières qui vous proposent des soins à domicile</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.34232910000003,50.8385481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>BIKEPARK</name>
+      <Placemark>
+        <name>Boxes à vélos | Fietsboxen (CycloParking)</name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: Gestion et entretien tous les boxes à vélos - Beheer en onderhoud fiestboxen<br>Nom - Naam: <br>GPS_Coord: 0.0<br>Où ? Waar?: Brussels Hoofdstedelijk Gewest - Région de Bruxelles-Capitale]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>Gestion et entretien tous les boxes à vélos - Beheer en onderhoud fiestboxen</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value/>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>0.0</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>Brussels Hoofdstedelijk Gewest - Région de Bruxelles-Capitale</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.342045,50.85483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buurt Parking Riverains Globe</name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: Buurtparking - Parking riverains<br><br>Nom - Naam: GLOBE<br>GPS_Coord: 50.81101, 4.32479<br>Où ? Waar?: Av. du Globelaan 4]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>Buurtparking - Parking riverains
+</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>GLOBE</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.81101, 4.32479</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>Av. du Globelaan 4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.3247919,50.8110186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buurt Parking Riverain Nancy Marolles
+</name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels/fr/<br>Type: <br>Nom - Naam: <br>GPS_Coord: <br>Où ? Waar?: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels/fr/</value>
+          </Data>
+          <Data name="Type">
+            <value/>
+          </Data>
+          <Data name="Nom - Naam">
+            <value/>
+          </Data>
+          <Data name="GPS_Coord">
+            <value/>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.34771460000002,50.8398217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flagey (privé)
+</name>
+        <description><![CDATA[Info and Abonnement: https://bit.ly/2EwIHB2 <br>Type: Privaatparking privé Indigo<br>Nom - Naam: Flagey<br>GPS_Coord: 50.8278, 4.373<br>Où ? Waar?: Place Eugène Flageyplein]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://bit.ly/2EwIHB2 </value>
+          </Data>
+          <Data name="Type">
+            <value>Privaatparking privé Indigo</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>Flagey</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.8278, 4.373</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>Place Eugène Flageyplein</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.3730081,50.8278089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miroir/Spiegel (privé)
+</name>
+        <description><![CDATA[Info and Abonnement: https://bit.ly/2C3wB1X<br>Type: Privaatparking privé Apcoa<br><br>Nom - Naam: Miroir/Spiegel<br>GPS_Coord: 50.87283, 4.32507<br>Où ? Waar?: Koning Astridplein/Place Reine Astrid<br>]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://bit.ly/2C3wB1X</value>
+          </Data>
+          <Data name="Type">
+            <value>Privaatparking privé Apcoa
+</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>Miroir/Spiegel</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.87283, 4.32507</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>Koning Astridplein/Place Reine Astrid
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.3250788,50.872832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking Bourse/Beurs (MoBiB+ABO)
+</name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: Grote Parkings Centrum - Grands Parkings du Centre<br>Nom - Naam: Bourse - Beurs<br>GPS_Coord: 50.8481, 4.34932<br>Où ? Waar?: BEURS-GROTE-MARKT Station BOURSE-GRAND-PLACE ]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>Grote Parkings Centrum - Grands Parkings du Centre</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>Bourse - Beurs</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.8481, 4.34932</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>BEURS-GROTE-MARKT Station BOURSE-GRAND-PLACE </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.3493214,50.8481003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking De Brouckère (MoBiB+ABO)
+</name>
+        <description><![CDATA[Info and Abonnement: <br>Type: <br>Nom - Naam: <br>GPS_Coord: <br>Où ? Waar?: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value/>
+          </Data>
+          <Data name="Type">
+            <value/>
+          </Data>
+          <Data name="Nom - Naam">
+            <value/>
+          </Data>
+          <Data name="GPS_Coord">
+            <value/>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.35210099999995,50.8501476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking CERIA (MoBiB+ABO)
+</name>
+        <description><![CDATA[Info and Abonnement: www.cycloparking.brussels<br>Type: <br>Nom - Naam: <br>GPS_Coord: <br>Où ? Waar?: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>www.cycloparking.brussels</value>
+          </Data>
+          <Data name="Type">
+            <value/>
+          </Data>
+          <Data name="Nom - Naam">
+            <value/>
+          </Data>
+          <Data name="GPS_Coord">
+            <value/>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.2865286,50.8156734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking Central Railway Station 
+</name>
+        <description><![CDATA[Info and Abonnement: http://www.cyclo.org/fr/services/les-parkings-velo-avec-controle-dacces<br>Type: <br>Nom - Naam: <br>GPS_Coord: <br>Où ? Waar?: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>http://www.cyclo.org/fr/services/les-parkings-velo-avec-controle-dacces</value>
+          </Data>
+          <Data name="Type">
+            <value/>
+          </Data>
+          <Data name="Nom - Naam">
+            <value/>
+          </Data>
+          <Data name="GPS_Coord">
+            <value/>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.355726,50.844937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking Luxembourg Railway Station</name>
+        <description><![CDATA[Info and Abonnement: <br>Type: <br>Nom - Naam: <br>GPS_Coord: <br>Où ? Waar?: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value/>
+          </Data>
+          <Data name="Type">
+            <value/>
+          </Data>
+          <Data name="Nom - Naam">
+            <value/>
+          </Data>
+          <Data name="GPS_Coord">
+            <value/>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.37382909999997,50.8379376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking North Railway Station</name>
+        <description><![CDATA[Info and Abonnement: <br>Type: <br>Nom - Naam: <br>GPS_Coord: <br>Où ? Waar?: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value/>
+          </Data>
+          <Data name="Type">
+            <value/>
+          </Data>
+          <Data name="Nom - Naam">
+            <value/>
+          </Data>
+          <Data name="GPS_Coord">
+            <value/>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.3608155,50.8599547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking South Railway Station
+</name>
+        <description><![CDATA[Info and Abonnement: http://www.cyclo.org/fr/services/les-parkings-velo-avec-controle-dacces<br>Type: <br>Nom - Naam: <br>GPS_Coord: <br>Où ? Waar?: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>http://www.cyclo.org/fr/services/les-parkings-velo-avec-controle-dacces</value>
+          </Data>
+          <Data name="Type">
+            <value/>
+          </Data>
+          <Data name="Nom - Naam">
+            <value/>
+          </Data>
+          <Data name="GPS_Coord">
+            <value/>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.33777689999999,50.835794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[P&R ]]></name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: P+R<br>Nom - Naam: ERASME<br>GPS_Coord: 50.8157581, 4.2648529<br>Où ? Waar?: P+R Érasme]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>P+R</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>ERASME</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.8157581, 4.2648529</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>P+R Érasme</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.264853,50.815758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[P&R 
+]]></name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: P+R<br>Nom - Naam: STALLE<br>GPS_Coord: 50.79544, 4.31824<br>Où ? Waar?: P+R Stalle]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>P+R</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>STALLE</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.79544, 4.31824</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>P+R Stalle</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.31824,50.79544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[P&R 
+]]></name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: P+R<br>Nom - Naam: HERRMANN-DEBROUX 1<br>GPS_Coord: 50.81224, 4.42832<br>Où ? Waar?: Avenue Herrmann-Debroux (sous le viaduc)]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>P+R</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>HERRMANN-DEBROUX 1</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.81224, 4.42832</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>Avenue Herrmann-Debroux (sous le viaduc)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.42832,50.81224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[P&R 
+]]></name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: P+R<br>Nom - Naam: HERRMANN-DEBROUX 2<br>GPS_Coord: 50.81251, 4.42825<br>Où ? Waar?: Avenue Herrmann-Debroux (Metro)]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>P+R</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>HERRMANN-DEBROUX 2</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.81251, 4.42825</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>Avenue Herrmann-Debroux (Metro)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.42825,50.81251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[P&R 
+]]></name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: P+R<br>Nom - Naam: DELTA<br>GPS_Coord: 50.81722, 4.4053<br>Où ? Waar?: P+R Delta]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>P+R</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>DELTA</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.81722, 4.4053</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>P+R Delta</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.4053,50.81722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[P&R 
+]]></name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: P+R<br>Nom - Naam: ROI BAUDOIN<br>GPS_Coord: 50.89687, 4.3292254<br>Où ? Waar?: ]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>P+R</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>ROI BAUDOIN</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.89687, 4.3292254</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.329225,50.89687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[P&R 
+]]></name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: P+R<br>Nom - Naam: CRAINHEM 2<br>GPS_Coord: 50.8487894, 4.4584526<br>Où ? Waar?: P+R Crainhem]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>P+R</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>CRAINHEM 2</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.8487894, 4.4584526</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>P+R Crainhem</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.458453,50.848789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[P&R 
+]]></name>
+        <description><![CDATA[Info and Abonnement: https://cycloparking.brussels <br>Type: P+R<br>Nom - Naam: BIZET<br>GPS_Coord: 50.8257843, 4.2982802<br>Où ? Waar?: Ch. de Mons x rue de la Promenade]]></description>
+        <styleUrl>#icon-1644-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://cycloparking.brussels </value>
+          </Data>
+          <Data name="Type">
+            <value>P+R</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>BIZET</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.8257843, 4.2982802</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>Ch. de Mons x rue de la Promenade</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.29828,50.825784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tulipe/Tulp  (communal)
+</name>
+        <description><![CDATA[Info and Abonnement: https://bit.ly/2Hk9Hqz<br>Type: Gemeentelijke parking communal<br>Nom - Naam: Tulipe<br>GPS_Coord: 50.83471, 4.36795<br>Où ? Waar?: Rue de la Tulipe 39A<br>]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Info and Abonnement">
+            <value>https://bit.ly/2Hk9Hqz</value>
+          </Data>
+          <Data name="Type">
+            <value>Gemeentelijke parking communal</value>
+          </Data>
+          <Data name="Nom - Naam">
+            <value>Tulipe</value>
+          </Data>
+          <Data name="GPS_Coord">
+            <value>50.83471, 4.36795</value>
+          </Data>
+          <Data name="Où ? Waar?">
+            <value>Rue de la Tulipe 39A
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.3679565,50.8347135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

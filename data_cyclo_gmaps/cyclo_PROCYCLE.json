@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "PROCYCLE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Critical Mass Brussels", "description": "Tous derniers vendredis du mois, 18h", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.36224140000002, 50.838195, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ECF European Cyclists' Federation asbl", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.38496310000005, 50.8447375, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Fietsersbond vzw", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3454817, 50.8488998, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "GRACQ-Les Cyclistes Quotidiens asbl", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3676428, 50.8380399, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Déchainé.es\n", "description": "Tous les 3ème vendredis du mois<br>https:\/\/dechainees.noblogs.org\/", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3639284, 50.8406332, 0.0 ] } }
+]
+}

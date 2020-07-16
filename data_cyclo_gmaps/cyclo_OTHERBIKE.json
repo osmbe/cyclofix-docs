@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "OTHERBIKE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Bikkenek", "description": "Café Vélo", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.34644230000004, 50.8376242, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Cycloserrurier", "description": "Artisan serrurier", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.35833960000002, 50.8333362, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "HORS CATEGORIE\n", "description": "http:\/\/horscategorie.brussels\/", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3846725, 50.8226007, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Marcel Bike Cafe (opening soon)", "description": "Bike café | Café vélo ", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3424662, 50.8212292, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Les Hirond’Elles", "description": "Cours d’initiation au vélo dédié aux femmes<br>http:\/\/molembike.be\/ateliers-velo\/", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3421024, 50.863437, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Tournevie Ixelles", "description": "Bike tools Rental<br>Location outillage", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.376916, 50.8304453, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Tournevie Anderlecht", "description": "Bike tools Rental<br>Location outillage", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.33013930000004, 50.8345413, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Cafe Velo", "description": "Espresso on wheels", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3580397, 50.8450454, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Tandem Fiets Café Vélo", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3697874, 50.8482966, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Tuk Tuk Jette", "description": "Service de déplacements personnalisé avec un tuk-tuk électrique (pour des aînés) |  sociaal mobiliteitsproject voor de ouderen http:\/\/labolobo.eu\/nl\/nl-tuktukjette\/", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3283571, 50.8721173, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Usitoo scrl", "description": "Rental of tools and bike (accessoires)<br>Location d'outils et (accessoires) vélo", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3230708, 50.8456654, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Wheel of Care", "description": "midwives and nurses offering home care | Des sages-femmes et infirmières qui vous proposent des soins à domicile", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.34232910000003, 50.8385481, 0.0 ] } }
+]
+}
