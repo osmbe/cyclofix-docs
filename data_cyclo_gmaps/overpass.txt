@@ -2,4 +2,5 @@ cycle shop	http://overpass-turbo.eu/s/W9x
 
 status
 1 : added in osm
-2 : wrong in cyclomap
+2 : wrong in this dataset
+3 : double-check
