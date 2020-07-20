@@ -1,0 +1,43 @@
+FID,gid,name_fr,name_nl,mu_fr,mu_nl,pc_cp,road_fr,road_nl,housenr,tel,x,y
+bicyclestore.15,15,Velodroom bvba,Velodroom bvba,Bruxelles,Brussel,1000,Rue Van Artevelde,Arteveldestraat,41,02/513.81.99,148414,170874
+bicyclestore.17,17,Sport 2000,Sport 2000,Bruxelles,Brussel,1020,Rue De Wand,De Wandstraat,122,02/268.53.41,149389,176610
+bicyclestore.18,18,Cycles IMP,Cycles IMP,Evere,Evere,1140,Chaussée de Louvain,Leuvensesteenweg,767,02/705.38.63,153044,172030
+bicyclestore.19,19,La Maison du vélo,La Maison du vélo,Schaerbeek,Schaarbeek,1030,Avenue Milcamps,Milcampslaan,235,02/742.07.45,151936,171531
+bicyclestore.20,20,VéloCité,VéloCité,Schaerbeek,Schaarbeek,1030,Place Colignon,Colignonplein,13,02/241.36.35,150276,172965
+bicyclestore.21,21,Bicycles shop,Bicycles shop,Etterbeek,Etterbeek,1040,Avenue du Onze Novembre,Elf Novemberlaan,66,02/732.61.58,151927,169165
+bicyclestore.22,22,C.Y.D.,C.Y.D.,Etterbeek,Etterbeek,1040,Avenue Eudore Pirmez,Eudore Pirmezlaan,14,02/640.17.60,151445,168870
+bicyclestore.23,23,Hangloose  BMX Shop,Hangloose  BMX Shop,Etterbeek,Etterbeek,1040,Rue Demot,De Motstraat,16,02/231.06.93,151068,169881
+bicyclestore.24,24,Cycles Devos,Cycles Devos,Ixelles,Elsene,1050,Avenue de la Couronne,Kroonlaan,500,02/648.62.72,151613,167672
+bicyclestore.25,25,Blue Bicycle,Blue Bicycle,Ixelles,Elsene,1050,Place Fernand Cocq,Fernand Cocqplein,18,02/512.39.69,149908,169206
+bicyclestore.26,26,MYDO Bike,MYDO Bike,Saint-Gilles,Sint-Gillis,1060,Avenue Jean Volders,Jean Volderslaan,6,0495/206990,148203,169122
+bicyclestore.28,28,Van den Driesche J,Van den Driesche J,Anderlecht,Anderlecht,1070,Rue des Trèfles,Klaverstraat,30,02/521.94.71,144546,167643
+bicyclestore.29,29,Fun Bike,Fun Bike,Berchem-Sainte-Agathe,Sint-Agatha-Berchem,1082,Rue des Soldats,Soldatenstraat,100,02/469.19.79,144916,172322
+bicyclestore.31,31,Cyclo Europe,Cyclo Europe,Evere,Evere,1140,Avenue Notre-Dame,Onze Lieve Vrouwlaan,127,02/245.83.94,152285,173466
+bicyclestore.32,32,Atelier du Cycle,Atelier du Cycle,Woluwe-Saint-Pierre,Sint-Pieters-Woluwe,1150,Stuyvenberg,Stuyvenberg,67,02/772.10.21,156495,170255
+bicyclestore.33,33,Bestbike,Bestbike,Woluwe-Saint-Pierre,Sint-Pieters-Woluwe,1150,Avenue Charles Thielemans,Charles Thielemanslaan,29,02/770.02.42,154343,624577
+bicyclestore.34,34,Stockel Sports,Stockel Sports,Woluwe-Saint-Pierre,Sint-Pieters-Woluwe,1150,Rue au Bois,Bosstraat,241,02/762.09.01,155632,169123
+bicyclestore.35,35,Cicli Marisa,Cicli Marisa,Auderghem,Oudergem,1160,Chaussée de Wavre,Waversesteenweg,2033,02/673.21.00,155139,94769
+bicyclestore.36,36,Vélo Pipette,Vélo Pipette,Watermael-Boitsfort,Watermaal-Bosvoorde,1170,Rue de l'Hospice Communal,Gemeentelijke Godshuisstraat,47,02/672.16.98,153557,165510
+bicyclestore.37,37,Bike Service,Bike Service,Uccle,Ukkel,1180,Chaussée de Drogenbos,Drogenbossesteenweg,210,02/376.21.83,146655,163925
+bicyclestore.38,38,BikeShop Hot Wheels,BikeShop Hot Wheels,Uccle,Ukkel,1180,Chaussée de Waterloo,Waterloosesteenweg,744,02/647.87.97,149925,167121
+bicyclestore.39,39,Cycle Derycke,Cycle Derycke,Uccle,Ukkel,1180,Chaussée de Waterloo,Waterloosesteenweg,1104,02/374.53.72,150470,165206
+bicyclestore.40,40,Veloxygène,Veloxygène,Uccle,Ukkel,1180,Rue Vanderkindere,Vanderkinderestraat,395,02/343.47.57,149450,167091
+bicyclestore.41,41,Eddy Sport,Eddy Sport,Woluwe-Saint-Lambert,Sint-Lambrechts-Woluwe,1200,Avenue Georges Henri,Georges Henrilaan,476,02/734.24.58,152396,170134
+bicyclestore.30,30,Brussels Bike Co.,Brussels Bike Co.,Jette,Jette,1090,Boulevard de Smet de Naeyer,de Smet de Naeyerlaan,54,0498/76.30.30,147190,173601
+bicyclestore.16,16,Cicli Fransman,Cicli Fransman,Jette,Jette,1090,Rue Pierre Timmermans,Pierre Timmermansstraat,18,02/427.62.90,146858,173661
+bicyclestore.42,42,Sea Speed sc,Sea Speed sc,Woluwe-Saint-Lambert,Sint-Lambrechts-Woluwe,1200,Rue Saint-Lambert,Sint-Lambertusstraat,111,02/770.25.33,154700,170410
+bicyclestore.43,43,Magic Vélos,Magic Vélos,Bruxelles,Brussel,1000,Square Sainctelette,Sainctelettesquare,6,02/425.75.35,148513,171948
+bicyclestore.44,44,Sport World City 2,Sport World City 2,Bruxelles,Brussel,1000,Rue des Cendres,Asstraat,16,02/217.88.15,149345,171560
+bicyclestore.45,45,Decathlon,Decathlon,Anderlecht,Anderlecht,1070,Drève Olympique,Olympische dreef,50,02/559.10.10,143513,167656
+bicyclestore.46,46,KM10,KM10,Watermael-Boitsfort,Watermaal-Bosvoorde,1170,Avenue de la Foresterie,Vorsterielaan,10,02/672.66.10,153609,164605
+bicyclestore.48,48,Ciclissimo,Ciclissimo,Woluwe-Saint-Pierre,Sint-Pieters-Woluwe,1150,Rue du Duc,Hertogstraat,24,0486/35.25.73,153214,169632
+bicyclestore.49,49,Le comptoir du cycle,Le comptoir du cycle,Uccle,Ukkel,1180,Rue Basse,Diepestraat,11,02/372.28.29,148828,164671
+bicyclestore.50,50,Cycle Services,Cycle Services,Etterbeek,Etterbeek,1040,Rue des Cultivateurs,Landbouwersstraat,52,0475/81.04.10,151745,169011
+bicyclestore.51,51,Vélosofiets,Vélosofiets,Forest,Vorst,1190,Avenue Zaman,Zamanlaan,18,0491/17.41.64,146915,166902
+bicyclestore.52,52,Au guidon vert,Au guidon vert,Etterbeek,Etterbeek,1040,Chaussée de Wavre,Steenweg op Waver,354,02/230.08.02,150799,169572
+bicyclestore.54,54,Velonaut,Velonaut,Bruxelles,Brussel,1020,Avenue Rommelaere,Rommelaerelaan,49,02/478.09.01,147594,175437
+bicyclestore.53,53,Urban Tri Sports,Urban Tri Sports,Woluwe-Saint-Pierre,Sint-Pieters-Woluwe,1150,Val des Seigneurs,Herendal,13,02/770.10.02,156652,169967
+bicyclestore.1,1,J.O. Bikes,J.O. Bikes,Etterbeek,Etterbeek,1040,Rue Général Fivé,Generaal Fivéstraat,4,02/647.46.71,151733,168708
+bicyclestore.47,47,Pignon Sur Roue,Pignon Sur Roue,Schaerbeek,Schaarbeek,1030,Rue Josse Impens,Josse Impensstraat,1,0495/84.70.47,150994,172369
+bicyclestore.57,57,E-bike center,E-bike center,Etterbeek,Etterbeek,1040,Chaussée de Wavre,Steenweg op Waver,295,02/644 52 05,150770,169506
+bicyclestore.58,58,Bxl Bikes,Bxl Bikes,Berchem-Sainte-Agathe,Sint-Agatha-Berchem,1082,Rue de Grand-Bigard,Groot-Bijgaardenstraat,461,02/465.36.40,144265,172544

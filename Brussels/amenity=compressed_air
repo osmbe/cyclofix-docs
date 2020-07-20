@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-07-15T07:17:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806599406",
+        "amenity": "compressed_air",
+        "description:en": "foot operated pump",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "ownership": "municipal",
+        "pressure": "10",
+        "valves": "sclaverand; dunlop; schrader"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4093438,
+          50.8208573
+        ]
+      },
+      "id": "node/4806599406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806599407",
+        "amenity": "compressed_air",
+        "description:en": "foot operated pump",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "ownership": "municipal",
+        "pressure": "10",
+        "valves": "sclaverand; dunlop; schrader"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4266627,
+          50.8168948
+        ]
+      },
+      "id": "node/4806599407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806599408",
+        "amenity": "compressed_air",
+        "description:en": "foot operated pump",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "ownership": "municipal",
+        "pressure": "10",
+        "valves": "sclaverand; dunlop; schrader"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4338425,
+          50.8163316
+        ]
+      },
+      "id": "node/4806599408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806599409",
+        "amenity": "compressed_air",
+        "description:en": "foot operated pump",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "ownership": "municipal",
+        "pressure": "10",
+        "valves": "sclaverand; dunlop; schrader"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4360707,
+          50.8101067
+        ]
+      },
+      "id": "node/4806599409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806599410",
+        "amenity": "compressed_air",
+        "description:en": "foot operated pump",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "ownership": "municipal",
+        "pressure": "10",
+        "valves": "sclaverand; dunlop; schrader"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4281839,
+          50.8125395
+        ]
+      },
+      "id": "node/4806599410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806599411",
+        "amenity": "compressed_air",
+        "description:en": "foot operated pump",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "ownership": "municipal",
+        "pressure": "10",
+        "valves": "sclaverand; dunlop; schrader"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4225943,
+          50.8125945
+        ]
+      },
+      "id": "node/4806599411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931031564",
+        "amenity": "compressed_air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4617829,
+          50.8487563
+        ]
+      },
+      "id": "node/4931031564"
+    }
+  ]
+}

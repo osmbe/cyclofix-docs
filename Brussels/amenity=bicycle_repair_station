@@ -1,0 +1,1187 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-07-15T06:34:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4077844348",
+        "amenity": "bicycle_repair_station",
+        "fee": "no",
+        "lastcheck:status": "needs_repair",
+        "mapillary": "https://www.mapillary.com/app/?lat=50.82693886679073&lng=4.349104922565402&z=17&pKey=frX984JYvWcJyXBGGNBr7g&dateFrom=2017-04-04&dateTo=2017-04-04&focus=photo",
+        "opening_hours": "24/7",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3489945,
+          50.8269374
+        ]
+      },
+      "id": "node/4077844348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4119098989",
+        "amenity": "bicycle_repair_station",
+        "description:en": "foot operated pump",
+        "fee": "no",
+        "manometer": "yes",
+        "mapillary_url": "http://www.mapillary.com/map/im/_xnZBcCyljKmO1hxLUjQmg/photo",
+        "opening_hours": "24/7",
+        "operator": "municipal",
+        "pressure": "10",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand; dunlop; schrader"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4602695,
+          50.8442038
+        ]
+      },
+      "id": "node/4119098989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416505367",
+        "amenity": "bicycle_repair_station",
+        "mapillary": "https://www.mapillary.com/app/?lat=50.821566320425376&lng=4.394383996503896&z=17&pKey=Ym2kTPi4rJhGkLIBUy7ubA&focus=photo",
+        "operator": "Brik",
+        "service:bicycle:pump": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3943801,
+          50.8217382
+        ]
+      },
+      "id": "node/4416505367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4434436022",
+        "amenity": "bicycle_repair_station",
+        "mapillary": "https://www.mapillary.com/app/?focus=photo&pKey=cjkZ0fDXgWNYYeumZ_f9IQ&lat=50.887210911241766&lng=4.305948060212927&z=17",
+        "name": "BikeTool Campus Jette",
+        "operator": "Brik",
+        "service:bicycle:pump": "yes",
+        "website": "https://brik.be/fietsen-in-brussel/biketool-by-brik/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3060047,
+          50.8871591
+        ]
+      },
+      "id": "node/4434436022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4759652063",
+        "amenity": "bicycle_repair_station",
+        "fee": "no",
+        "mapillary": "https://www.mapillary.com/app/?pKey=KWSQMpEssagDkSjbRAPJjg&lat=50.86627610543209&lng=4.348849819312477&z=17&focus=photo&x=0.5031329879088322&y=0.35801283107503246&zoom=0",
+        "operator": "Brussel Leefmilieu",
+        "service:bicycle:pump": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.348841,
+          50.8664898
+        ]
+      },
+      "id": "node/4759652063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4761409363",
+        "access": "private",
+        "amenity": "bicycle_repair_station",
+        "operator": "Brik",
+        "service:bicycle:pump": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3233911,
+          50.8419767
+        ]
+      },
+      "id": "node/4761409363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4761438533",
+        "access": "private",
+        "amenity": "bicycle_repair_station",
+        "operator": "Brik",
+        "service:bicycle:pump": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3660462,
+          50.8614582
+        ]
+      },
+      "id": "node/4761438533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4763693370",
+        "amenity": "bicycle_repair_station",
+        "fee": "no",
+        "mapillary": "https://www.mapillary.com/app/?lat=50.88055704406668&lng=4.327713012916547&z=17&pKey=N88cdd6AtBiL2fO3Y9QY9Q&focus=photo&x=0.5127870963431508&y=0.4416230211405095&zoom=0",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "service:bicycle:pump": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3278864,
+          50.8804747
+        ]
+      },
+      "id": "node/4763693370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4763693371",
+        "amenity": "bicycle_repair_station",
+        "fee": "no",
+        "mapillary": "https://www.mapillary.com/app/?lat=50.87576712582404&lng=4.3273686375219995&z=17&pKey=DB8s0oo5nI9AVkV_zP3kBQ&focus=photo&x=0.49614296501824967&y=0.42500701998669027&zoom=0",
+        "opening_hours": "to 18:30 ?",
+        "operator": "Gemeente Jette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3273011,
+          50.8757256
+        ]
+      },
+      "id": "node/4763693371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776382170",
+        "amenity": "bicycle_repair_station",
+        "fee": "no",
+        "mapillary": "https://www.mapillary.com/app/?lat=50.82561142626952&lng=4.346859800718903&z=17&pKey=NrAgGCGKlEGDNlCvTO5oYQ&dateFrom=2017-04-04&dateTo=2017-04-04&focus=photo&x=0.49765218916104603&y=0.38710367487166464&zoom=0",
+        "note": "there are some tools",
+        "opening_hours": "24/7",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3467954,
+          50.8255484
+        ]
+      },
+      "id": "node/4776382170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776382171",
+        "amenity": "bicycle_repair_station",
+        "description": "There are some tools",
+        "fee": "no",
+        "mapillary": "https://www.mapillary.com/app/?lat=50.82406108872249&lng=4.344822132363362&z=17&pKey=nCqag5Uq6xaYL7s-9OQhzA&dateFrom=2017-04-04&dateTo=2017-04-04&focus=photo",
+        "opening_hours": "24/7",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3448063,
+          50.8241078
+        ]
+      },
+      "id": "node/4776382171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4843350229",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike-repair-station-scandic-euipo-no-1447197/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4617128,
+          50.8280792
+        ]
+      },
+      "id": "node/4843350229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4853824238",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike-repair-station-scandic-euipo-no-1447197/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4604646,
+          50.8443751
+        ]
+      },
+      "id": "node/4853824238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4853824240",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike-repair-station-scandic-euipo-no-1447197/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4391545,
+          50.8358075
+        ]
+      },
+      "id": "node/4853824240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5190812930",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3279917,
+          50.8693837
+        ]
+      },
+      "id": "node/5190812930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5191299108",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3110633,
+          50.8901468
+        ]
+      },
+      "id": "node/5191299108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5191299109",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3249033,
+          50.8901985
+        ]
+      },
+      "id": "node/5191299109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5191299110",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3373338,
+          50.8762849
+        ]
+      },
+      "id": "node/5191299110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5191299111",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3355967,
+          50.8675211
+        ]
+      },
+      "id": "node/5191299111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5191299114",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3175985,
+          50.8850107
+        ]
+      },
+      "id": "node/5191299114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5191299115",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3343779,
+          50.8728247
+        ]
+      },
+      "id": "node/5191299115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5212386106",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4173366,
+          50.8154223
+        ]
+      },
+      "id": "node/5212386106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5212386108",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4060316,
+          50.8183343
+        ]
+      },
+      "id": "node/5212386108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5212386109",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4028605,
+          50.8211128
+        ]
+      },
+      "id": "node/5212386109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238101860",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4087079,
+          50.8235171
+        ]
+      },
+      "id": "node/5238101860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238101861",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4011954,
+          50.8255878
+        ]
+      },
+      "id": "node/5238101861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238101862",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4182219,
+          50.8120204
+        ]
+      },
+      "id": "node/5238101862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238101863",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4238725,
+          50.8124514
+        ]
+      },
+      "id": "node/5238101863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238101864",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.435288,
+          50.8071904
+        ]
+      },
+      "id": "node/5238101864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238101865",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4404483,
+          50.8116492
+        ]
+      },
+      "id": "node/5238101865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238101866",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4342412,
+          50.8140028
+        ]
+      },
+      "id": "node/5238101866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238101867",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4275369,
+          50.8212624
+        ]
+      },
+      "id": "node/5238101867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238101868",
+        "amenity": "bicycle_repair_station",
+        "brand": "Ibombo",
+        "description": "A 0.50 / 1 / 2 Euro coin is needed to unlock the station. The coin is recovered when the station is locked.",
+        "fee": "no",
+        "ownership": "municipal",
+        "service:bicycle:chain_tool": "no",
+        "service:bicycle:pump": "yes",
+        "website": "http://www.ibombo.be/bike_repair_station_prs-lv2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4149016,
+          50.8189644
+        ]
+      },
+      "id": "node/5238101868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5295727909",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3235355,
+          50.8247588
+        ]
+      },
+      "id": "node/5295727909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5295732552",
+        "amenity": "bicycle_repair_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3235622,
+          50.8247948
+        ]
+      },
+      "id": "node/5295732552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577848255",
+        "amenity": "bicycle_repair_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4648179,
+          50.8432065
+        ]
+      },
+      "id": "node/5577848255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6200744648",
+        "amenity": "bicycle_repair_station",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3834555,
+          50.8138104
+        ]
+      },
+      "id": "node/6200744648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274996732",
+        "amenity": "bicycle_repair_station",
+        "service:bicycle:pump": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3171335,
+          50.8097493
+        ]
+      },
+      "id": "node/6274996732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6329699865",
+        "amenity": "bicycle_repair_station",
+        "image": "https://www.mapillary.com/map/im/aM5ClEjo1AAN6lGf8G7sWw",
+        "mapillary": "aM5ClEjo1AAN6lGf8G7sWw",
+        "service:bicycle:pump": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3745388,
+          50.8794374
+        ]
+      },
+      "id": "node/6329699865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6562545734",
+        "amenity": "bicycle_repair_station",
+        "contact:website": "http://www.ibombo.be/reparation/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4078178,
+          50.8157459
+        ]
+      },
+      "id": "node/6562545734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579907945",
+        "amenity": "bicycle_repair_station",
+        "contact:website": "http://www.ibombo.be/reparation/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3982776,
+          50.8243429
+        ]
+      },
+      "id": "node/6579907945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6627808534",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3278714,
+          50.8804736
+        ]
+      },
+      "id": "node/6627808534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6631210239",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3246548,
+          50.8726219
+        ]
+      },
+      "id": "node/6631210239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6688385770",
+        "amenity": "bicycle_repair_station",
+        "mapillary": "ScQkE4nkvLiQG9iqXiDUyw",
+        "service:bicycle:pump": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4033302,
+          50.8721765
+        ]
+      },
+      "id": "node/6688385770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6943961758",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3162708,
+          50.8684592
+        ]
+      },
+      "id": "node/6943961758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6943961759",
+        "amenity": "bicycle_repair_station",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File:Air_pump_van_overbekelaan.jpg",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3162761,
+          50.8684618
+        ]
+      },
+      "id": "node/6943961759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044297422",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3273151,
+          50.8757273
+        ]
+      },
+      "id": "node/7044297422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7243155306",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "operator": "Gemeente Jette",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3217228,
+          50.8813375
+        ]
+      },
+      "id": "node/7243155306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7280144896",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "fee": "no",
+        "manometer": "yes",
+        "opening_hours": "24/7",
+        "pressure": "10",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no",
+        "valves": "sclaverand;schrader;dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3007585,
+          50.8802898
+        ]
+      },
+      "id": "node/7280144896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7318527616",
+        "amenity": "bicycle_repair_station",
+        "fee": "no",
+        "opening_hours": "24/7",
+        "service:bicycle:pump": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3727955,
+          50.8671496
+        ]
+      },
+      "id": "node/7318527616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7347531645",
+        "amenity": "bicycle_repair_station",
+        "service:bicycle:pump": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3189133,
+          50.7844049
+        ]
+      },
+      "id": "node/7347531645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7498146075",
+        "access": "yes",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "covered": "yes",
+        "description": "opgelet: op 7/5/2020 ontbrak het slangetje om op een fiets aan te sluiten",
+        "fee": "no",
+        "lit": "yes",
+        "manometer": "yes",
+        "operator": "Stad Halle",
+        "pump": "manual",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2581117,
+          50.7507305
+        ]
+      },
+      "id": "node/7498146075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7551524287",
+        "amenity": "bicycle_repair_station",
+        "name": "Bicycle repair station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.429221,
+          50.8121854
+        ]
+      },
+      "id": "node/7551524287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7595540953",
+        "amenity": "bicycle_repair_station",
+        "contact:website": "http://www.ibombo.be/reparation/",
+        "operator": "Commune d'Auderghem - Gemeente Oudergem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4066434,
+          50.8215796
+        ]
+      },
+      "id": "node/7595540953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7700038475",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "image:0": "https://i.imgur.com/mVbPj05.jpg",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:tools": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3808228,
+          50.8626549
+        ]
+      },
+      "id": "node/7700038475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7702723399",
+        "amenity": "bicycle_repair_station",
+        "bicycle": "yes",
+        "compressed_air:valves": "dunlop;presto;auto",
+        "description": "One needs to put a coin into a mechanism to open the toolbox. The coin is returned afterwards",
+        "fee": "no",
+        "image:0": "https://i.imgur.com/um3eQgl.jpg",
+        "image:1": "https://i.imgur.com/BsvqN7G.jpg",
+        "image:2": "https://i.imgur.com/xIRMk8S.jpg",
+        "manual": "yes",
+        "opening_hours": "24/7",
+        "operator": "Saint Gilles - Sint Gillis",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:stand": "yes",
+        "service:bicycle:tools": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3532469,
+          50.8311614
+        ]
+      },
+      "id": "node/7702723399"
+    }
+  ]
+}

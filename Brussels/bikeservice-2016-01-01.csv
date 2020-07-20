@@ -1,0 +1,10 @@
+FID,gid,nom,naam,mu_fr,mu_nl,pc_cp,street_fr,street_nl,housenr,tel,info_fr,info_nl,x,y
+bikeservice.8,8,Point vélo NORD,Fietspunt NOORD,Saint-Josse-ten-Noode,Sint-Joost-ten-Node,1210,Place du Nord,Noordplein,1,02/203.85.55,"Location de vélos, petites réparations, parking vélo","Fietsverhuur, kleine herstellingen, fietsenstalling",149390,0.464521
+bikeservice.9,9,Point vélo CENTRAL,Fietspunt CENTRAAL,Bruxelles,Brussel,1000,Carrefour de l'Europe,Europakruispunt,2,02/513.04.09,"Location de vélos, petites réparations, parking vélo","Fietsverhuur, kleine herstellingen, fietsenstalling",149090,0.578878
+bikeservice.10,10,Point vélo Voot VUB,Fietspunt Voot VUB,Auderghem,Oudergem,1160,Boulevard du Triomphe,Triomflaan,40,02/762.48.93,"Location de vélos, ateliers pédagogiques","Fietsverhuur, workshops",152117,168179
+bikeservice.11,11,La maison des cyclistes,Het fietsershuis,Ixelles,Elsene,1050,Rue de Londres,Londenstraat,15,02/502.73.55,"Location, conseils, asscociations cyclistes","Fietsverhuur, advies, fietsersverenigingen",149914,169731
+bikeservice.12,12,Cyclo,Cyclo,Bruxelles,Brussel,1000,Rue de Flandre,Vlaamsesteenweg,85,02/513.95.55,"Vente vélos d'occasions, atelier vélo","Verkoop van tweedehandsfietsen, fietsatelier",148404,171347
+bikeservice.13,13,Point vélo Gare de LUXEMBOURG,Fietspunt LUXEMBURG,Ixelles,Elsene,1050,Rue de Trèves,Trierstraat,1,02/224.77.22,"Location, petites réparations","Fietsverhuur, kleine herstellingen",150313,0.496613917
+bikeservice.14,14,Point vélo MIDI,Fietspunt ZUID,Saint-Gilles,Sint-Gillis,1060,Avenue Fonsny,Fonsnylaan,47B,02/544.05.94,"Location de vélos, petites réparations, parking vélo","Fietsverhuur, kleine herstellingen, fietsenstalling",147775,169440
+bikeservice.3,3,Ateliers Voot,Ateliers Voot,Woluwe-Saint-Lambert,Sint-Lambrechts-Woluwe,1200,Rue Voot,Vootstraat,91,02/762.48.93,Atelier vélo,Fietsatelier,154699,170048
+bikeservice.4,4,Fietsersbond,Fietsersbond,Bruxelles,Brussel,1000,Rue du Vieux Marché aux Grains,Oude Graanmarkt,63,02/502 68 51,,,148356,170944
