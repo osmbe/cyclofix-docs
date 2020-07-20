@@ -1,0 +1,1249 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-07-20T07:14:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/223353199",
+        "addr:housenumber": "767",
+        "addr:postcode": "1140",
+        "addr:street": "Chaussée de Louvain - Leuvensesteenweg",
+        "building": "yes",
+        "name": "Cycles IMP Meiser",
+        "ref:UrbIS": "7755665",
+        "shop": "bicycle",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4119979,
+          50.8587373
+        ]
+      },
+      "id": "way/223353199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224637450",
+        "addr:city": "Woluwe-Saint-Lambert - Sint-Lambrechts-Woluwe",
+        "addr:housenumber": "476",
+        "addr:postcode": "1200",
+        "addr:street": "Avenue Georges Henri - Georges Henrilaan",
+        "building": "yes",
+        "name": "Eddy sport",
+        "phone": "+32 2 734 24 58",
+        "ref:UrbIS": "8660000",
+        "shop": "bicycle",
+        "website": "http://www.eddysport.be/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4026763,
+          50.8417771
+        ]
+      },
+      "id": "way/224637450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226411265",
+        "addr:city": "Watermael-Boitsfort - Watermaal-Bosvoorde",
+        "addr:housenumber": "10",
+        "addr:postcode": "1170",
+        "addr:street": "Avenue de la Foresterie - Vorsterielaan",
+        "building": "yes",
+        "name": "km 10",
+        "ref:UrbIS": "8734100",
+        "service:bicycle:cleaning": "yes",
+        "shop": "bicycle",
+        "website": "http://www.km10.be/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4200244,
+          50.7917963
+        ]
+      },
+      "id": "way/226411265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227209788",
+        "building": "yes",
+        "name": "Vélo Cité",
+        "ref:UrbIS": "8092360",
+        "shop": "bicycle",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3726966,
+          50.8673088
+        ]
+      },
+      "id": "way/227209788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/349714633",
+        "addr:housenumber": "6",
+        "addr:street": "Avenue Jean Volders - Jean Volderslaan",
+        "created_by": "Potlatch 0.10f",
+        "name": "Véloshop Mydo",
+        "repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3433018,
+          50.8325133
+        ]
+      },
+      "id": "node/349714633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/351267651",
+        "entrance": "yes",
+        "name": "Velo Goffeau",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.367408,
+          50.8332256
+        ]
+      },
+      "id": "node/351267651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/482152827",
+        "addr:city": "Ixelles - Elsene",
+        "addr:housenumber": "15",
+        "addr:postcode": "1050",
+        "addr:street": "Rue de Londres - Londenstraat",
+        "contact:email": "info@provelo.org",
+        "contact:facebook": "https://www.facebook.com/pro.velo/",
+        "contact:phone": "+32 2 502 73 55",
+        "contact:website": "http://www.provelo.org",
+        "name": "Pro Velo",
+        "opening_hours": "Mo-Fr 10:00-13:00, 13:30-18:00; Sa-Su,PH 10:00-18:00",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q981051",
+        "wikipedia": "nl:Pro Velo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3675701,
+          50.8380129
+        ]
+      },
+      "id": "node/482152827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/514871516",
+        "name": "Point vélo - Fietspunt",
+        "name:fr": "Point vélo",
+        "name:nl": "Fietspunt",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Cyclo",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3557792,
+          50.8448385
+        ]
+      },
+      "id": "node/514871516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/867014029",
+        "addr:housenumber": "18",
+        "addr:street": "Rue Pierre Timmermans - Pierre Timmermansstraat",
+        "currency:XLT": "ZINN",
+        "name": "Cicli Fransman",
+        "payment:cash:XLT-ZINN": "yes",
+        "phone": "+3224276290",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.ciclifransman.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3241726,
+          50.8733567
+        ]
+      },
+      "id": "node/867014029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1267855234",
+        "addr:housenumber": "111",
+        "addr:postcode": "1200",
+        "addr:street": "Rue Saint-Lambert - Sint-Lambrechtsstraat",
+        "name": "SeaSpeed",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4355791,
+          50.8440816
+        ]
+      },
+      "id": "node/1267855234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1308998366",
+        "name": "Best Bike",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4303513,
+          50.8371455
+        ]
+      },
+      "id": "node/1308998366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1889918938",
+        "addr:housenumber": "47",
+        "addr:postcode": "1170",
+        "addr:street": "Rue de l'Hospice Communal - Gemeentelijke Godshuisstraat",
+        "name": "Vélo Pipette",
+        "opening_hours": "Mo off;Tu-Fr 09:30-13:00, 14:00-18:30;Sa 09:30-18:30;Su off",
+        "phone": "+32 2 672 16 98",
+        "ref:UrbIS": "8724813",
+        "shop": "bicycle",
+        "website": "http://www.velopipette.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4192089,
+          50.8000429
+        ]
+      },
+      "id": "node/1889918938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2254391232",
+        "addr:housenumber": "30",
+        "addr:postcode": "1070",
+        "addr:street": "Rue des Trèfles - Klaverstraat",
+        "name": "Van den Driesch Jean",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2913869,
+          50.8192317
+        ]
+      },
+      "id": "node/2254391232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2315446891",
+        "addr:city": "Bruxelles - Brussel",
+        "addr:country": "BE",
+        "addr:housenumber": "41",
+        "addr:postcode": "1000",
+        "addr:street": "Rue Van Artevelde - Arteveldestraat",
+        "contact:phone": "+32 2 513 81 99",
+        "contact:website": "http://www.velodroom.net",
+        "name": "Velodroom",
+        "opening_hours": "Tu-Sa 10:00-18:30",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3462861,
+          50.8482332
+        ]
+      },
+      "id": "node/2315446891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2325764501",
+        "addr:city": "Auderghem - Oudergem",
+        "addr:housenumber": "2033",
+        "addr:postcode": "1160",
+        "addr:street": "Chaussée de Wavre - Waversesteenweg",
+        "name": "Hot Wheelz",
+        "shop": "bicycle",
+        "website": "https://www.bikeshop.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4415913,
+          50.8104259
+        ]
+      },
+      "id": "node/2325764501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2332827831",
+        "addr:city": "Schaerbeek - Schaarbeek",
+        "addr:housenumber": "235",
+        "addr:street": "Avenue Milcamps - Milcampslaan",
+        "name": "La maison du vélo",
+        "phone": "027420745",
+        "service:bicycle:Bicycle_Sales_and_Service": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.lamaisonduvelo.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.396165,
+          50.8541962
+        ]
+      },
+      "id": "node/2332827831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2338422254",
+        "addr:housenumber": "167",
+        "addr:street": "Rue Américaine - Amerikaanse straat",
+        "name": "Goodbikes",
+        "ref:UrbIS": "5076348",
+        "shop": "bicycle",
+        "website": "http://www.goodbikes.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3621469,
+          50.8221288
+        ]
+      },
+      "id": "node/2338422254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2350009610",
+        "addr:housenumber": "14",
+        "addr:street": "Avenue Eudore Pirmez - Eudore Pirmezlaan",
+        "name": "Cycles CYD",
+        "ref:UrbIS": "8634761",
+        "shop": "bicycle",
+        "website": "https://cyclescyd.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3892658,
+          50.8302518
+        ]
+      },
+      "id": "node/2350009610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2353778389",
+        "addr:housenumber": "1412",
+        "addr:street": "Chaussée de Wavre - Waversesteenweg",
+        "contact:facebook": "https://www.facebook.com/JobikesBruxelles/",
+        "name": "JOBIKES",
+        "ref:UrbIS": "8608086",
+        "shop": "bicycle",
+        "website": "https://www.jobikes.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4156021,
+          50.8190334
+        ]
+      },
+      "id": "node/2353778389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367110092",
+        "addr:city": "Etterbeek",
+        "addr:country": "BE",
+        "addr:housenumber": "20",
+        "addr:postcode": "1040",
+        "addr:street": "Place Saint-Pierre - Sint-Pietersplein",
+        "name": "Vélophil",
+        "opening_hours": "Tu 10:00-20:00; We-Fr 10:00-19:00; Sa 10:00-18:00",
+        "phone": "+32 2 732 47 32",
+        "shop": "bicycle",
+        "website": "http://www.velophil.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3964388,
+          50.8372285
+        ]
+      },
+      "id": "node/2367110092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2443552701",
+        "addr:housenumber": "3B",
+        "addr:street": "Clos du Parnasse - Parnassusgaarde",
+        "email": "info@bikesquare.be",
+        "name": "Bike Square",
+        "opening_hours": "Tu-Fr 10:00-18:00; May-Nov Sa 10:00-18:00; Dec-Apr 10:00-14:00; PH off",
+        "phone": "+32 498 44 60 52",
+        "ref:UrbIS": "8428263",
+        "shop": "bicycle",
+        "website": "http://www.bikesquare.be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3702157,
+          50.837571
+        ]
+      },
+      "id": "node/2443552701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2462191319",
+        "addr:city": "Ixelles - Elsene",
+        "addr:housenumber": "32",
+        "addr:postcode": "1050",
+        "addr:street": "Place Eugène Flagey - Eugène Flageyplein",
+        "name": "Velofixer",
+        "opening_hours": "Tu-Su 10:00-19:00",
+        "ref:UrbIS": "8554536",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.velofixer.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3725125,
+          50.8286241
+        ]
+      },
+      "id": "node/2462191319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468792211",
+        "addr:housenumber": "500",
+        "addr:street": "Avenue de la Couronne - Kroonlaan",
+        "name": "Cycles Devos",
+        "ref:UrbIS": "8507068",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3916509,
+          50.8194857
+        ]
+      },
+      "id": "node/2468792211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2486502698",
+        "addr:city": "Etterbeek",
+        "addr:housenumber": "354",
+        "addr:postcode": "1040",
+        "addr:street": "Chaussée de Wavre - Steenweg op Waver",
+        "name": "Au Guidon Vert",
+        "opening_hours": "We-Sa 13:00-18:00",
+        "phone": "+32 2 230 08 02",
+        "shop": "bicycle",
+        "website": "http://www.auguidonvert.com/fr/accueil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.380164,
+          50.8365172
+        ]
+      },
+      "id": "node/2486502698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2518122880",
+        "addr:city": "Bruxelles - Brussel",
+        "addr:city:fr": "Bruxelles",
+        "addr:city:nl": "Brussel",
+        "addr:country": "BE",
+        "addr:housenumber": "85",
+        "addr:postcode": "1000",
+        "addr:street": "Rue de Flandre - Vlaamsesteenweg",
+        "addr:street:fr": "Rue de Flandre",
+        "addr:street:nl": "Vlaamsesteenweg",
+        "contact:phone": "+32 2 513 95 55",
+        "contact:website": "http://www.recyclo.org/fr/locatie/atelier-cyclo",
+        "name": "Het Atelier Participatif",
+        "opening_hours": "Tu-Fr 12:00 - 19:00; Sa 10:00 - 15:00",
+        "operator": "Cyclo",
+        "operator:type": "private_non_profit",
+        "ref:UrbIS": "8317097",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3460313,
+          50.8525107
+        ]
+      },
+      "id": "node/2518122880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2594805882",
+        "addr:city": "Bruxelles - Brussel",
+        "addr:city:fr": "Bruxelles",
+        "addr:city:nl": "Brussel",
+        "addr:country": "BE",
+        "addr:housenumber": "53",
+        "addr:postcode": "1000",
+        "addr:street": "Rue du Vieux Marché aux Grains - Oude Graanmarkt",
+        "addr:street:fr": "Rue du Vieux Marché aux Grains",
+        "addr:street:nl": "Oude Graanmarkt",
+        "club": "sport",
+        "description": "Cycling Store & Clubhouse",
+        "name": "Kring",
+        "ref:UrbIS": "8185687",
+        "shop": "bicycle",
+        "sport": "cycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3454354,
+          50.8491071
+        ]
+      },
+      "id": "node/2594805882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2665166326",
+        "addr:housenumber": "5",
+        "addr:street": "Rue Joseph Stevens - Joseph Stevensstraat",
+        "name": "Pop-Up Villo!",
+        "note": "Probably temporary—opening on Nov. 29, 2019—and aimed at selling batteries for electric Villo! bicycles",
+        "opening_hours": "Mo,Su,PH off; Tu,Th,Fr 13:00-18:00; We,Sa  10:00-18:00",
+        "operator": "JCDecaux",
+        "ref:UrbIS": "8186427",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3523752,
+          50.8413129
+        ]
+      },
+      "id": "node/2665166326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3251077668",
+        "addr:city": "Uccle - Ukkel",
+        "addr:housenumber": "395",
+        "addr:postcode": "1180",
+        "addr:street": "Rue Vanderkindere - Vanderkinderestraat",
+        "name": "Veloxygène",
+        "shop": "bicycle",
+        "website": "http://veloxygenebrompton.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3609546,
+          50.8142463
+        ]
+      },
+      "id": "node/3251077668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3251077774",
+        "addr:city": "Uccle - Ukkel",
+        "addr:housenumber": "110",
+        "addr:postcode": "1180",
+        "addr:street": "Chaussée de Drogenbos - Drogenbossesteenweg",
+        "name": "Bike in motion",
+        "shop": "bicycle",
+        "website": "https://www.bikeemotion.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3213262,
+          50.7858158
+        ]
+      },
+      "id": "node/3251077774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3476216385",
+        "name": "Stockel Sports",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4487367,
+          50.8325382
+        ]
+      },
+      "id": "node/3476216385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393877032",
+        "addr:housenumber": "6",
+        "addr:street": "Square Sainctelette - Sainctelettesquare",
+        "mapillary": "https://www.mapillary.com/app/?focus=photo&pKey=NjOLi6UWkHb3NltVgI7FGA&lat=50.8581796573881&lng=4.347712431595427&z=17",
+        "name": "Magic Velos",
+        "opening_hours": "Mo 14:00-19:00, Tu-Fr 10:00-19:00, Sa 10:00-17:00",
+        "phone": "+32 2 425 75 35",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "http://www.magicvelos.be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3476473,
+          50.8579664
+        ]
+      },
+      "id": "node/4393877032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4401514084",
+        "mapillary": "https://www.mapillary.com/app/?focus=photo&pKey=yBrvEdflRdPa_Eg_3-DIHw&lat=50.8351941775594&lng=4.337435978700346&z=17",
+        "name": "Fietspunt - Point Vélo",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Cyclo",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3370447,
+          50.8352511
+        ]
+      },
+      "id": "node/4401514084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419350048",
+        "addr:city": "Ixelles - Elsene",
+        "addr:housenumber": "1",
+        "addr:postcode": "1050",
+        "addr:street": "Rue de Trèves - Trierstraat",
+        "email": "luxembourg@cyclo.org",
+        "name": "Point vélo Luxembourg",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "CyCLO",
+        "phone": "+32 2 224 77 22",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "http://www.cyclo.org/fr/ateliers/point-velo-luxembourg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3736469,
+          50.8377763
+        ]
+      },
+      "id": "node/4419350048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471890398",
+        "addr:city": "Bruxelles - Brussel",
+        "addr:postcode": "1030",
+        "addr:street": "Rue du Progrès - Vooruitgangstraat",
+        "level": "-1",
+        "name": "Point Vélo Nord - Fietspunt Noord",
+        "name:en": "Bike Point North",
+        "name:fr": "Point Vélo Nord",
+        "name:nl": "Fietspunt Noord",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Cyclo",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle",
+        "website": "http://www.cyclo.org/en/workshops/bike-point-north"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3606142,
+          50.8602496
+        ]
+      },
+      "id": "node/4471890398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5265822479",
+        "name": "Cyclo Europe",
+        "opening_hours": "Tu-Fr 09:30-13:00,13:30-18:00; Sa 09:30-16:00",
+        "phone": "+32 2 245 83 94",
+        "shop": "bicycle",
+        "website": "https://www.cycloeurope.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3982803,
+          50.8726898
+        ]
+      },
+      "id": "node/5265822479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5453670117",
+        "addr:city": "Uccle - Ukkel",
+        "addr:housenumber": "789",
+        "addr:postcode": "1180",
+        "addr:street": "Chaussée de Waterloo - Waterloosesteenweg",
+        "name": "Bike your city",
+        "opening_hours": "Mo-Fr 09:30-19:00 Sa 10:00-18:00",
+        "shop": "bicycle",
+        "website": "http://www.bikeyourcity.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3684682,
+          50.8115605
+        ]
+      },
+      "id": "node/5453670117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5743761943",
+        "addr:housenumber": "139",
+        "addr:street": "Chaussée de Wavre Waversesteenweg",
+        "name": "BikesPals",
+        "phone": "+32 488 31 09 72",
+        "shop": "bicycle",
+        "website": "bikespals.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3690825,
+          50.8355746
+        ]
+      },
+      "id": "node/5743761943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6178017063",
+        "addr:city": "Bruxelles - Brussel",
+        "addr:housenumber": "124",
+        "addr:postcode": "1000",
+        "addr:street": "Rue Van Artevelde - Arteveldestraat",
+        "currency:XLT": "ZINN",
+        "name": "Cycloperativa",
+        "opening_hours": "Mo 18:00-21:00",
+        "operator": "Cycloperativa asbl",
+        "payment:cash": "yes",
+        "payment:cash:XLT-ZINN": "yes",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "www.cycloperativa.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3435951,
+          50.8464191
+        ]
+      },
+      "id": "node/6178017063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6252107102",
+        "name": "Ahooga House",
+        "operator": "Ahooga",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3661315,
+          50.8245911
+        ]
+      },
+      "id": "node/6252107102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6438517889",
+        "addr:housenumber": "157",
+        "addr:postcode": "1000",
+        "addr:street": "Boulevard Anspach - Anspachlaan",
+        "int_name": "Velofixer",
+        "opening_hours": "Tu-Sa 10:00-19:00",
+        "shop": "bicycle",
+        "website": "http://www.velofixer.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3469744,
+          50.8460372
+        ]
+      },
+      "id": "node/6438517889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6593460328",
+        "contact:email": "info@cyclo.org",
+        "contact:phone": "+32 2 657 60 47",
+        "full_name": "Point vélo Bourse - Fietspunt Beurs",
+        "full_name:fr": "Point vélo Bourse",
+        "full_name:nl": "Fietspunt Beurs",
+        "location": "underground",
+        "name": "Point vélo - Fietspunt",
+        "name:fr": "Point vélo",
+        "name:nl": "Fietspunt",
+        "opening_hours": "Tu-Fr 09:00-19:00; Sa 10:00-16:00",
+        "operator": "Cyclo",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3499189,
+          50.848584
+        ]
+      },
+      "id": "node/6593460328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6980028719",
+        "addr:housenumber": "12",
+        "addr:street": "Avenue Edouard de Thibault - Edouard de Thibaultlaan",
+        "currency:XLT": "ZINN",
+        "fixme": "verify if they are still active",
+        "name": "Broebel'Air",
+        "operator:type": "private_non_profit",
+        "payment:cash:XLT-ZINN": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "https://www.broebelair.be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39622,
+          50.8356182
+        ]
+      },
+      "id": "node/6980028719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7494498486",
+        "name": "Pignon sur Roue",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3828127,
+          50.8617218
+        ]
+      },
+      "id": "node/7494498486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7541057879",
+        "addr:housenumber": "49",
+        "addr:street": "Avenue Rommelaere - Rommelaerelaan",
+        "name": "Velonaut",
+        "opening_hours": "Tu-Fr 13:00-17:30; Sa 09:00-12:00",
+        "phone": "+32 24 78 09 01",
+        "shop": "bicycle",
+        "website": "http://www.velonaut.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3345362,
+          50.8892402
+        ]
+      },
+      "id": "node/7541057879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7721219211",
+        "name": "Cowboy Saloon",
+        "shop": "bicycle",
+        "website": "https://cowboy.com/pages/brussels-saloon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.340039,
+          50.8526182
+        ]
+      },
+      "id": "node/7721219211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7721971667",
+        "contact:facebook": "https://www.facebook.com/LeComptoirDuCyclebeSprl",
+        "name": "Le Comptoir du Cycle",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3625098,
+          50.7931043
+        ]
+      },
+      "id": "node/7721971667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722002661",
+        "name": "Vélo de Gé",
+        "shop": "bicycle",
+        "website": "http://velodege.eu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3242171,
+          50.7961185
+        ]
+      },
+      "id": "node/7722002661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7723486414",
+        "name": "Velosofiets",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "http://www.velosofiets.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3249379,
+          50.812567
+        ]
+      },
+      "id": "node/7723486414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7723665584",
+        "name": "MFI Bike",
+        "shop": "bicycle",
+        "website": "https://www.mfibike.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3484855,
+          50.8142124
+        ]
+      },
+      "id": "node/7723665584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7724098442",
+        "name": "Bike Avenue",
+        "shop": "bicycle",
+        "website": "http://www.bikeavenue.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3545974,
+          50.8249933
+        ]
+      },
+      "id": "node/7724098442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7724412695",
+        "name": "Cycle Services - Atlerier 1040",
+        "operator": "Jeff's Bicycle Workshop",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "http://www.cycleservices.be/pages/Atelier%201040.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3947926,
+          50.8333625
+        ]
+      },
+      "id": "node/7724412695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7724417969",
+        "fixme": "access service roads are missing - how do you get there?",
+        "name": "Ciclissimo",
+        "shop": "bicycle",
+        "website": "https://ciclissimo.be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.41429,
+          50.8371349
+        ]
+      },
+      "id": "node/7724417969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7724445192",
+        "name": "Morning Cycles",
+        "shop": "bicycle",
+        "website": "https://www.morningcycles.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3883868,
+          50.8469728
+        ]
+      },
+      "id": "node/7724445192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7728817112",
+        "name": "Bikkenek",
+        "shop": "bicycle",
+        "website": "https://bikkenek.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3464135,
+          50.8375967
+        ]
+      },
+      "id": "node/7728817112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7728827897",
+        "fixme": "also does something with motorbikes",
+        "name": "Fun Bike",
+        "shop": "bicycle",
+        "website": "https://www.funbike.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2964818,
+          50.8612672
+        ]
+      },
+      "id": "node/7728827897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7728832136",
+        "name": "Brussels Bike Co.",
+        "shop": "bicycle",
+        "website": "https://www.brusselsbikeco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3287995,
+          50.8727951
+        ]
+      },
+      "id": "node/7728832136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7728833633",
+        "name": "BXL Bikes",
+        "shop": "bicycle",
+        "website": "https://bxlbikes.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2870384,
+          50.8632894
+        ]
+      },
+      "id": "node/7728833633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7728841622",
+        "name": "Van den Mooter",
+        "shop": "bicycle",
+        "website": "https://www.mooter.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3281348,
+          50.8769152
+        ]
+      },
+      "id": "node/7728841622"
+    }
+  ]
+}

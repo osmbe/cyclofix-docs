@@ -5,16 +5,16 @@
 "features": [
 { "type": "Feature", "properties": { "Name": "Best Bike Brussels", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.430302, 50.8371283, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Bike and Road BXL", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3691594, 50.8356059, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "CityGate Cycle\n", "description": "Wednesday & Saturday from 10:00 to 18:00", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.321907, 50.831609, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "CyCLO Atelier Bockstael", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.34611140000004, 50.8738223, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CityGate Cycle\n", "tessellate": -1, "extrude": 0, "visibility": -1, "description": "Wednesday & Saturday from 10:00 to 18:00", "status": 3 }, "geometry": { "type": "Point", "coordinates": [ 4.321907, 50.831609, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CyCLO Atelier Bockstael", "tessellate": -1, "extrude": 0, "visibility": -1, "status": 1 }, "geometry": { "type": "Point", "coordinates": [ 4.34611140000004, 50.8738223, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Doner Bekane", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.37123280000003, 50.8307966, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "HORS CATEGORIE \n", "description": "http:\/\/horscategorie.brussels\/", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3846725, 50.8226007, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "HORS CATEGORIE \n", "tessellate": -1, "extrude": 0, "visibility": -1, "description": "http:\/\/horscategorie.brussels\/" }, "geometry": { "type": "Point", "coordinates": [ 4.3846725, 50.8226007, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Hot Wheelz - 55 Bike distribution - Specialized Concept store", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.441634, 50.810407, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Moving Store", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.6242011, 50.7204911, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Magic Vélos", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.347672, 50.857992, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "La Poudrière ASBL \/ Emmaüs", "description": "Chaque mardi et jeudi 14h-19h", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.338801, 50.848657, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Magic Vélos", "tessellate": -1, "extrude": 0, "visibility": -1, "status": 1 }, "geometry": { "type": "Point", "coordinates": [ 4.347672, 50.857992, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "La Poudrière ASBL \/ Emmaüs", "tessellate": -1, "extrude": 0, "visibility": -1, "description": "Chaque mardi et jeudi 14h-19h", "status": 1 }, "geometry": { "type": "Point", "coordinates": [ 4.338801, 50.848657, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Urban Tri Sports", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.46324010000001, 50.8400371, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Velofixer", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3492543, 50.8473014, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Vélosofiets", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.324879, 50.8126029, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Vélosofiets", "tessellate": -1, "extrude": 0, "visibility": -1, "status": 1 }, "geometry": { "type": "Point", "coordinates": [ 4.324879, 50.8126029, 0.0 ] } }
 ]
 }
