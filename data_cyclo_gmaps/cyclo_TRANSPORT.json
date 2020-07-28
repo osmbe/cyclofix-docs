@@ -3,11 +3,11 @@
 "name": "TRANSPORT",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "Dioxyde de Gambettes - livraisons à vélo", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3643221, 50.8378953, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "HUSH RUSH \/\/ Bicycle Delivery", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3877487, 50.8229584, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Molenbike \n", "description": "Local & Fair Transporthttps:\/\/www.molenbike.be\/", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3407019, 50.8548627, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "PedalBXL Bicycle Couriers", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3043775, 50.8708779, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Remorquable ASBL\n", "description": "https:\/\/www.remorquable.be\/", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.38465710000003, 50.8125448, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "urbike", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.33827980000001, 50.8317142, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Dioxyde de Gambettes - livraisons à vélo", "tessellate": -1, "extrude": 0, "visibility": -1, "Website": "http:\/\/dioxyde-de-gambettes.com\/", "Attribute": "transport stuff" }, "geometry": { "type": "Point", "coordinates": [ 4.3643221, 50.8378953, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "HUSH RUSH \/\/ Bicycle Delivery", "tessellate": -1, "extrude": 0, "visibility": -1, "Website": "http:\/\/hushrush.be\/", "Attribute": "and same again" }, "geometry": { "type": "Point", "coordinates": [ 4.3877487, 50.8229584, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Molenbike \n", "tessellate": -1, "extrude": 0, "visibility": -1, "Website": "https:\/\/www.molenbike.be\/", "Attribute": "Same" }, "geometry": { "type": "Point", "coordinates": [ 4.3407019, 50.8548627, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PedalBXL Bicycle Couriers", "tessellate": -1, "extrude": 0, "visibility": -1, "Website": "https:\/\/pedalbxl.com\/", "Attribute": "same and road bike tours" }, "geometry": { "type": "Point", "coordinates": [ 4.3043775, 50.8708779, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Remorquable ASBL\n", "tessellate": -1, "extrude": 0, "visibility": -1, "Website": "https:\/\/www.remorquable.be\/", "Attribute": "Same" }, "geometry": { "type": "Point", "coordinates": [ 4.38465710000003, 50.8125448, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "urbike", "tessellate": -1, "extrude": 0, "visibility": -1, "Website": "https:\/\/urbike.be\/", "Attribute": "Still same" }, "geometry": { "type": "Point", "coordinates": [ 4.33827980000001, 50.8317142, 0.0 ] } }
 ]
 }
